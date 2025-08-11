@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ataklife.com/map.xml
