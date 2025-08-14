@@ -1,9 +1,9 @@
 
-  .pykaamenulist-menu:hover .dropdown-content-pykaa {
+  .k5fmemenulist-menu:hover .dropdown-content-k5fme {
     display: flex;
     flex-direction: column;
   }
-  .pykaamenulist-menu {
+  .k5fmemenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .pykaamenulist-menu:hover {
+  .k5fmemenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .pykaamenulist-menu:hover > a {
+  .k5fmemenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .pykaamenulist-menu > a {
+  .k5fmemenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-pykaa {
+  .dropdown-content-active-k5fme {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-pykaa > a {
+  .dropdown-content-active-k5fme > a {
     color: #000 !important;
   }
 
-  .dropdown-content-pykaa {
+  .dropdown-content-k5fme {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-pykaa > a {
+  .dropdown-content-k5fme > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-pykaa > a:hover {
+  .dropdown-content-k5fme > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .pykaabody {
+  .k5fmebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .pykaabody > a {
+  .k5fmebody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .pykaa-title {
+  .k5fme-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .pykaa-spot {
+  .k5fme-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .pykaa-icon {
+  .k5fme-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .pykaa {
+  .k5fme {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .pykaatitle {
+  .k5fmetitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .pykaatitlebody {
+  .k5fmetitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .pykaatitlebodytitle {
+  .k5fmetitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .pykaatitlebodylang {
+  .k5fmetitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .pykaatitlebodylang ul {
+  .k5fmetitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .pykaatitlebodylang li {
+  .k5fmetitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .pykaamenu {
+  .k5fmemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .pykaamenulist {
+  .k5fmemenulist {
     width: calc(100% - 20px);
     background-color: #000;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .pykaamenubody {
+  .k5fmemenubody {
     width: 100%;
     background-color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .pykaamenulist {
+  .k5fmemenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .pykaamenulistbody {
+  .k5fmemenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .pykaamenu {
+    .k5fmemenu {
       overflow-x: auto;
     }
-    .pykaamenulist {
+    .k5fmemenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .pykaabody {
+    .k5fmebody {
       display: flex;
       align-items: center;
       justify-content: center;

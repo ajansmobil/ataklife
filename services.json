@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Yangın Söndürme ve Güvenlik Sistemleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wqnbc6wwkr",
+      "url": "",
+      "path": "yangin-sondurme-ve-guvenlik-sistemleri",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "icon": "home",
+      "img": "zpje9.jpg"
+    },
+    {
+      "name": {
+        "tr": "Klima Santrali (HVAC) Sistemleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wxra86edth",
+      "url": "",
+      "path": "klima-santrali-hvac-sistemleri",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "img": "y1a5c.jpg"
+    },
+    {
+      "name": {
+        "tr": "Hızlı Isıtma ve Soğutma Uygulamaları"
+      },
+      "status": "play",
+      "category": "",
+      "id": "qxbmojvwfa",
+      "url": "",
+      "path": "hizli-isitma-ve-sogutma-uygulamalari",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "keyword": {
+        "tr": ""
+      },
+      "text": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "update": "2025-08-11T05:20:26.845Z",
+      "date": "2025-08-11T05:20:26.845Z",
+      "img": "jkn1x.jpg"
+    },
+    {
+      "name": {
+        "tr": "Isı Pompası Sistemleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hl0b0lgnah",
+      "url": "",
+      "path": "isi-pompasi-sistemleri",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "img": "a7z57.jpg"
+    },
+    {
+      "name": {
+        "tr": "Kazan Dairesi Çözümleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "stxuz0pw08",
+      "url": "",
+      "path": "kazan-dairesi-cozumleri",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "img": "q6irr.jpg"
+    },
+    {
+      "name": {
+        "tr": "Pis ve Temiz Su Tesisatı"
+      },
+      "status": "play",
+      "category": "",
+      "id": "u8540a7ajl",
+      "url": "",
+      "path": "pis-ve-temiz-su-tesisati",
+      "index": 5,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "img": "e5z4s.jpg"
+    },
+    {
+      "name": {
+        "tr": "Mekanik Havalandırma Sistemleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "encod06wvh",
+      "url": "",
+      "path": "mekanik-havalandirma-sistemleri",
+      "index": 6,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "img": "ejgfu.jpg"
+    }
+  ],
+  "modulestatus": {
+    "detail": true,
+    "img": true,
+    "body": false
+  }
+}

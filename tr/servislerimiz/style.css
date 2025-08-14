@@ -1,9 +1,9 @@
 
-  .apzfzmenulist-menu:hover .dropdown-content-apzfz {
+  .rqlk8menulist-menu:hover .dropdown-content-rqlk8 {
     display: flex;
     flex-direction: column;
   }
-  .apzfzmenulist-menu {
+  .rqlk8menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .apzfzmenulist-menu:hover {
+  .rqlk8menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .apzfzmenulist-menu:hover > a {
+  .rqlk8menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .apzfzmenulist-menu > a {
+  .rqlk8menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-apzfz {
+  .dropdown-content-active-rqlk8 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-apzfz > a {
+  .dropdown-content-active-rqlk8 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-apzfz {
+  .dropdown-content-rqlk8 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-apzfz > a {
+  .dropdown-content-rqlk8 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-apzfz > a:hover {
+  .dropdown-content-rqlk8 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .apzfzbody {
+  .rqlk8body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .apzfzbody > a {
+  .rqlk8body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .apzfz-title {
+  .rqlk8-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .apzfz-spot {
+  .rqlk8-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .apzfz-icon {
+  .rqlk8-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .apzfz {
+  .rqlk8 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .apzfztitle {
+  .rqlk8title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .apzfztitlebody {
+  .rqlk8titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .apzfztitlebodytitle {
+  .rqlk8titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .apzfztitlebodylang {
+  .rqlk8titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .apzfztitlebodylang ul {
+  .rqlk8titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .apzfztitlebodylang li {
+  .rqlk8titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .apzfzmenu {
+  .rqlk8menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .apzfzmenulist {
+  .rqlk8menulist {
     width: calc(100% - 20px);
     background-color: #000;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .apzfzmenubody {
+  .rqlk8menubody {
     width: 100%;
     background-color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .apzfzmenulist {
+  .rqlk8menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .apzfzmenulistbody {
+  .rqlk8menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .apzfzmenu {
+    .rqlk8menu {
       overflow-x: auto;
     }
-    .apzfzmenulist {
+    .rqlk8menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .apzfzbody {
+    .rqlk8body {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü ",
+      "path": "menu-3",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "logo": "logo.svg",
+        "color": "#000",
+        "logosize": 200,
+        "logosizemobil": 200
+      },
+      "id": "g6sgam",
+      "data": [
+        {
+          "name": {
+            "tr": "Bizi hemen arayın"
+          },
+          "spot": "+90 507 744 04 74",
+          "icon": "phone",
+          "url": "tell:05077440474",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "Bize yazın"
+          },
+          "spot": "info@{{domain}}",
+          "icon": "mail",
+          "url": "info@{{domain}}",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "Adres"
+          },
+          "spot": "Sarıgüllük Mah. Barlas Cad. No: 3/A Şehitkamil/GAZİANTEP",
+          "icon": "location_on",
+          "url": "",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "color": "#000"
+      },
+      "data": [],
+      "id": "dw34ls"
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "data": [
+        {
+          "img": "1.png"
+        },
+        {
+          "img": "2.png"
+        },
+        {
+          "img": "4.png"
+        },
+        {
+          "img": "9.png"
+        }
+      ],
+      "id": "iz3aof"
+    },
+    {
+      "index": 3,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0507 744 04 74",
+          "url": "tel:05077440474"
+        },
+        {
+          "icon": "email",
+          "text": "info@{{domain}}"
+        },
+        {
+          "icon": "map",
+          "text": "Sarıgüllük Mah. Barlas Cad. No: 3/A Şehitkamil/GAZİANTEP"
+        }
+      ],
+      "id": "bde5ug"
+    },
+    {
+      "index": 4,
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#000",
+        "color": "#1e3046",
+        "img": "map.jpg",
+        "url": ""
+      },
+      "id": "krn8cn"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing 3",
+      "path": "page-desing-4",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "category": "kurumsal",
+        "menu-active": "#1e3046"
+      },
+      "id": "gt9qru"
+    },
+    {
+      "index": 6,
+      "name": "Hizmetlerimiz",
+      "path": "page-list-2",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "services",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "id": "ofirrl"
+    },
+    {
+      "index": 7,
+      "name": "Tanıtım Modülü",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "desing": {
+        "name": {
+          "tr": "Atak Life'ı Tanıyın"
+        },
+        "spot": {
+          "tr": "Atak Life olarak; Yangın Söndürme ve Güvenlik Sistemleri, Klima Santrali (HVAC) Sistemleri, Isı Pompası Sistemleri, Kazan Dairesi Çözümleri, Pis ve Temiz Su Tesisatı, Mekanik Havalandırma Sistemleri ile Hızlı Isıtma ve Soğutma Uygulamaları alanlarında profesyonel çözümler sunuyoruz."
+        },
+        "name2": {
+          "tr": "Vizyonumuz"
+        },
+        "spot2": {
+          "tr": "Tüm sektörlerde yapacağımız inovasyonlarla adımızdan söz ettirmek."
+        },
+        "icon2": "home",
+        "name3": {
+          "tr": "Misyonumuz"
+        },
+        "spot3": {
+          "tr": "Hizmet sunduğumuz alanlarda ihtiyaç duyulan çözümleri sunmak."
+        },
+        "icon3": "home",
+        "img": "logo.jpg",
+        "bgcolor": "#000",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "id": "ils8wt"
+    }
+  ]
+}

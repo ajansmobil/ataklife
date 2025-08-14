@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "body": true,
+        "page": true
+      }
+    },
+    {
+      "name": "Hizmetlerimiz",
+      "path": "services",
+      "desc": [],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true,
+        "img": true,
+        "body": false
+      }
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "gt9qru"
+        ],
+        "footer": []
+      }
+    }
+  ]
+}

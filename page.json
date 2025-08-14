@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "d8odpurhtp",
+      "url": "",
+      "path": "hakkimizda",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda"
+    },
+    {
+      "name": {
+        "tr": "Hizmetlerimiz"
+      },
+      "status": "play",
+      "category": "",
+      "id": "k8fxldwcfw",
+      "url": "",
+      "path": "hizmetlerimiz",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "ofirrl"
+        ],
+        "footer": []
+      },
+      "pathnext": ""
+    },
+    {
+      "name": {
+        "tr": "Servislerimiz"
+      },
+      "status": "play",
+      "category": "",
+      "id": "d7vjqbesnl",
+      "url": "",
+      "path": "servislerimiz",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": ""
+    },
+    {
+      "name": {
+        "tr": "Ürünlerimiz"
+      },
+      "status": "play",
+      "category": "",
+      "id": "mrprpesg90",
+      "url": "",
+      "path": "urunlerimiz",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": ""
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "pqt0gmxdxf",
+      "url": "",
+      "path": "iletisim",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "bde5ug",
+          "krn8cn"
+        ],
+        "footer": []
+      },
+      "pathnext": ""
+    }
+  ]
+}
